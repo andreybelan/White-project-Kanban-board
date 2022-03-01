@@ -1,0 +1,26 @@
+.input {
+  margin: 15px 12px 0 12px;
+}
+
+.input__text {
+  box-sizing: border-box;
+  border-radius: 5px;
+  height: 35px;
+  border: none;
+  padding: 8px;
+  font-size: 18px;
+  width: 100%;
+  margin-bottom: 12px;
+}
+
+.input__button {
+  background: #0079bf;
+  border-radius: 5px;
+  height: 29px;
+  width: 102px;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  color: #ffffff;
+  margin-bottom: 7px;
+}

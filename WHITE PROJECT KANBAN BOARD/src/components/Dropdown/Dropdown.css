@@ -1,0 +1,21 @@
+.dropdown {
+  margin: 15px 12px 5px 12px;
+  background: #ffffff;
+  padding: 8px;
+  border-radius: 5px;
+  margin-bottom: 7px;
+}
+
+.dropdown__select {
+  width: 100%;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  appearance: none;
+  opacity: 0.7;
+  background: url("../Dropdown//Vector.svg") no-repeat right;
+}
+
+.dropdown__select:focus {
+  outline: none;
+}

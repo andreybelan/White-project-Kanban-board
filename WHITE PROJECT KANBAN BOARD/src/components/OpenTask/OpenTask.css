@@ -1,0 +1,39 @@
+.task {
+  background: #fff;
+  border-radius: 10px;
+  margin: 25px 0;
+  padding: 25px;
+  width: 100%;
+  min-height: 65vh;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: right;
+}
+
+.wrapper__link {
+  width: 30px;
+}
+
+.task__title {
+  margin: 0;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  color: #000000;
+}
+
+.task__discription {
+  margin-top: 20px;
+  width: 100%;
+  min-height: 20vh;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+}
